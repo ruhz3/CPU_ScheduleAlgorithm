@@ -1,0 +1,4 @@
+﻿  CPU_Scheduling.cpp
+C:\Users\류형주\Desktop\git\CPU_SchedulingAlgorithm\Scheduler.h(67,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\류형주\Desktop\git\CPU_SchedulingAlgorithm\Scheduler.h(93,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CPUscheduler.vcxproj -> C:\Users\류형주\Desktop\git\CPU_SchedulingAlgorithm\Debug\CPUscheduler.exe

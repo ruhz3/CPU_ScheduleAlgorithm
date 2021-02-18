@@ -1,0 +1,2 @@
+C:\Users\류형주\Desktop\git\CPU_SchedulingAlgorithm\Debug\CPUscheduler.exe
+C:\Users\류형주\Desktop\git\CPU_SchedulingAlgorithm\Debug\CPUscheduler.pdb
